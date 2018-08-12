@@ -1,0 +1,14 @@
+{%extends "layout.html"%}
+{%block content%}
+<div class="table">
+  <h1> Table of inventory.</h1>
+<table>
+  {% for key, value in content.items() %}
+  <tr>
+    <th> {{key}}</th>
+    <td> {{value}}</td>
+  </tr>
+  {% endfor %}
+</table>
+</div>
+{%endblock%}

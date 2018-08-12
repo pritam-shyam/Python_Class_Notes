@@ -1,0 +1,51 @@
+School,Type,Median_SAT,Acceptance_Rate_Perc,Expenditures_per_Student,Graduation_perc
+Amherst,Lib Arts,1315,26,"$23,972 ",93
+Barnard,Lib Arts,1220,57,"$15,887 ",80
+Bates,Lib Arts,1240,40,"$15,798 ",88
+Berkeley,University,1176,36,"$26,031 ",68
+Bowdoin,Lib Arts,1300,28,"$23,132 ",90
+Brown,University,1281,23,"$26,621 ",90
+Bryn Mawr,Lib Arts,1255,60,"$16,962 ",84
+Cal Tech,University,1400,30,"$112,488 ",75
+Carleton,Lib Arts,1300,44,"$14,313 ",80
+Carnegie Mellon,University,1225,63,"$36,967 ",77
+Claremont McKenna,Lib Arts,1260,40,"$18,339 ",74
+Colby,Lib Arts,1200,50,"$16,984 ",84
+Colgate,Lib Arts,1258,42,"$15,768 ",85
+Columbia,University,1268,28,"$50,466 ",90
+Cornell,University,1280,29,"$40,850 ",83
+Davidson,Lib Arts,1230,40,"$15,948 ",89
+Duke,University,1310,24,"$43,454 ",91
+Georgetown,University,1278,23,"$25,426 ",89
+Grinnell,Lib Arts,1244,71,"$20,070 ",73
+Hamilton,Lib Arts,1215,42,"$18,649 ",85
+Harvard,University,1370,17,"$51,609 ",90
+Haverford,Lib Arts,1285,39,"$17,476 ",87
+Johns Hopkins,University,1290,47,"$50,006 ",86
+Middlebury,Lib Arts,1255,29,"$22,246 ",92
+MIT,University,1357,29,"$62,442 ",86
+Mount Holyoke,Lib Arts,1200,65,"$21,022 ",83
+Northwestern,University,1230,46,"$31,736 ",82
+Oberlin,Lib Arts,1247,58,"$21,231 ",77
+Occidental,Lib Arts,1170,53,"$18,172 ",72
+Pomona,Lib Arts,1320,37,"$24,001 ",80
+Princeton,University,1340,16,"$52,935 ",93
+Rice,University,1327,23,"$29,403 ",88
+Smith,Lib Arts,1195,61,"$22,743 ",87
+Stanford,University,1370,17,"$68,113 ",88
+Swarthnore,Lib Arts,1310,28,"$24,738 ",88
+Syracuse,University,1350,19,"$36,850 ",90
+U Michigan,University,1195,59,"$24,038 ",77
+U of Chicago,University,1300,44,"$42,830 ",73
+U of Rochester,University,1155,55,"$42,456 ",73
+U Pennsylvania,University,1280,40,"$33,970 ",86
+U Va,University,1218,36,"$21,301 ",88
+UCLA,University,1142,42,"$29,544 ",61
+UNC,University,1109,31,"$21,652 ",73
+Vassar,Lib Arts,1287,47,"$18,161 ",84
+Washington U (MO),University,1225,53,"$43,871 ",76
+Washinton and Lee,Lib Arts,1234,33,"$16,198 ",78
+Wellesley,Lib Arts,1250,53,"$25,091 ",86
+Wesleyan (CT),Lib Arts,1290,39,"$17,953 ",91
+Williams,Lib Arts,1336,32,"$21,394 ",93
+Yale,University,1350,18,"$57,714 ",93

@@ -1,0 +1,83 @@
+
+/*
+* Formating for image
+*/
+img {  display: block;}
+img.wrap {  max-width: 70%;  margin: 0px 0px; }
+img.align-right {  float: right;  margin-left: 30px; }
+img.align-left {  float: left;  margin-right: 30px; }
+
+/*
+* General html block formating
+*/
+body {
+   margin: 0;
+   padding: 0;
+   color: #eeeeee;
+   background-color: #f0f0f0;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+h1.logo {
+  margin: 0;
+  font-size: 1.7em;
+  color: #eeeeee;
+  text-transform: uppercase;
+  float: left;
+  margin-top: 35px;
+  margin-left: 0px;
+}
+
+/*
+* Formating of three display areas, header, contrain, and footer
+*/
+
+div.header {
+  height: 100px;
+  width:90%;
+  background-color:#dfb887;
+  opacity: .95;
+  margin: 0 auto;
+  border:1px solid #9b8554;
+  border-radius: 0px 3px 3px 0px;
+}
+div.container  {
+  width:90%;
+  background-color:#E6E6FA;
+  color: #111111;
+  margin: 0 auto;
+  border:2px solid #B4B4D8;
+  border-radius: 3px 3px 3px 3px;
+}
+
+div.footer {
+  height: 30px;
+  width:90%;
+  background-color:#dfb887;
+  opacity: .95;
+  margin: 0 auto;
+  border:2px solid #9b8554;
+  border-radius: 3px 3px 3px 3px;
+}
+
+
+/*
+* Formatting of our menu content
+*/
+ul.menu {
+  float: right;
+  margin-top: 70px;
+  margin-right: 35px;
+}
+
+ul.menu li {
+  display: inline;
+}
+
+ul.menu li + li {
+  margin-left: 35px;
+}
+
+ul.menu li a {
+  color: #444;
+  text-decoration: none;
+}

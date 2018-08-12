@@ -1,0 +1,1 @@
+web: gunicorn mis407_wap:app

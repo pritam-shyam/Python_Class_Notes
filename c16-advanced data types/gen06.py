@@ -1,0 +1,5 @@
+log = open("access_log")
+bytecolumn = (line.rsplit(None,1)[1] for line in log)
+total_bytes = (int(x) for x in bytecolumn if x != '-')
+print('The total bytes transfered = {:,}'.format(sum(total_bytes)))
+log.close()

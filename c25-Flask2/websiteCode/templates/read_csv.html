@@ -1,0 +1,16 @@
+{%extends "layout.html"%}
+{%block content%}
+<div class="table">
+  <h1> Table of csv file entries</h1>
+<table border=1 align="center">
+  {% for row in content %}
+  <tr frame="box">
+    {% for item in row: %}
+          <td> {{item}} </td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
+<br>
+</div>
+{%endblock%}
